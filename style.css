@@ -1,0 +1,16 @@
+body{background-color:#c2dcfd;
+     color:floralwhite;
+     text-align: center;
+     font-family:Oswald;}
+a{ font-family:Oswald;
+    color:antiquewhite;}
+a:hover{color:#11193D}
+.darkhighlight{
+        background-color:skyblue;
+        text-align: center;}
+.highlight{
+        background-color:skyblue;
+        text-align: center;}
+body{background-image url("background.jpg");
+     background-repeat: no-repeat
+     }
