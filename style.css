@@ -14,3 +14,9 @@ a:hover{color:#11193D}
 body{background-image url("background.jpg");
      background-repeat: no-repeat
      }
+
+.bottom{
+     position: absolute;
+     bottom
+: 0;
+}
